@@ -1,0 +1,6 @@
+@(name: String, file: String)
+
+@main {
+	Testing: @name
+	<script src='@routes.Assets.at("javascripts/" + file)' type="text/javascript"></script>
+}

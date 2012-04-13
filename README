@@ -1,0 +1,4 @@
+Play 2.0 + Google Closure Compiler + CoffeeScript Test
+======================================================
+
+This is a crude test app to test Play's ability to handle CommonJS style "require" statements for regular JavaScript files as well as files compiled from CoffeeScript, both in regular and in minifed output files.
